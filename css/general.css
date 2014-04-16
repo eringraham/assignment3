@@ -216,13 +216,12 @@ figcaption {
 
 .bucket2 {
     overflow:  hidden;
-    background-color: white;
 }
 
 .bucket2 div {
     float: left;
-    width: 45%; 
-    margin: 0 5% 0 0; 
+    width: 40%; 
+    margin: 0 10% 0 0; 
     padding: 0;
     border: dotted .10rem gray;
 }

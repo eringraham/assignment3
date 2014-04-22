@@ -102,11 +102,12 @@ header {
 
 h1 {
     margin: 0;
-    padding: 0 20% 0;
+    padding: .5rem 20% .5rem;
     background-color: pink;
-    font-style: normal;
-    font-weight:100;
+    font-family: 'Raleway', Helvetica, Century-Gothic, sans-serif;
+    font-weight: normal;
     font-size: 1.5rem;
+    line-height: 2rem;
     color: black;
     overflow: hidden;
 }

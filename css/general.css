@@ -102,11 +102,11 @@ header {
 
 h1 {
     margin: 0;
-    padding: 0 3rem;
+    padding: 0 20% 0;
     background-color: pink;
     font-style: normal;
     font-weight:100;
-    font-size: 2rem;
+    font-size: 1.5rem;
     color: black;
     overflow: hidden;
 }
@@ -147,12 +147,15 @@ h3 {
 p {
     font-family: Helvetica, Century Gothic,sans-serif;
     padding: 0 3rem 0;
-    font-size: .75rem;
+    font-size: 1rem;
+    font-weight: 100;
     line-height: 1.25rem;
 }
 
 .bucket1 {
     overflow:  hidden;
+    width: 85%;
+    margin: 0 8% 1rem;
     background-color: white;
     border: dotted .10rem gray;
 }

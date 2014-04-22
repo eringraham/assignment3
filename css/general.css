@@ -82,7 +82,7 @@ header {
 .nav-top a:visited {
 	display: block;
 	font-size: 1rem;
-    padding: .5rem 5%;
+    padding: .5rem 5% .5rem;
 	color: floralwhite;
 	text-decoration: none;
     font-weight: 100;
@@ -119,8 +119,7 @@ h1 {
     line-height: 1.5rem;
     font-weight: 100;
     background-color: white;
-    border: dotted .10rem gray;
-    
+    border: dotted .10rem gray;  
 }
 
 a {

@@ -214,14 +214,21 @@ figcaption {
     background-color: pink;
 }
 
-.bucket2 {
-    overflow:  hidden;
+.bucket2 { 
+    overflow:  hidden;   
 }
 
-.bucket2 div {
-    float: left;
-    width: 40%; 
-    margin: 0 10% 0 0; 
+.bucket2 figure {
+    margin: 0;
     padding: 0;
     border: dotted .10rem gray;
+}
+
+.bucket2 a,
+.bucket2 a:link,
+.bucket2 a:visited {
+    float: left;
+    width: 40%;
+    margin: 1.5rem 5% 1.5rem;
+    padding: 0;
 }
